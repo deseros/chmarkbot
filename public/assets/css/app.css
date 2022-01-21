@@ -1,0 +1,135 @@
+.main-body {
+    background: #ff8054;
+    margin: 0;
+}
+.form {
+    width: 380px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 40px -10px #000;
+    margin: calc(30vh - 220px) auto;
+    padding: 20px 30px;
+    max-width: calc(100vw - 40px);
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    position: relative;
+}
+.contact-head {
+    margin: 10px 0;
+    padding-bottom: 10px;
+    color: black;
+    text-align:center;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    background: none;
+    outline: none;
+    resize: none;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    transition: all .3s;
+    border: 1px solid #ccc;
+}
+input:focus {
+    border: 1px solid #78788c;
+}
+form p:before {
+    content: attr(type);
+    display: block;
+    margin: 28px 0 0;
+    font-size: 14px;
+    color: #5a5a5a;
+}
+.sub-but{ 
+    padding: 10px 20px;
+    margin: 10px 80px 0;
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid #78788c;
+    background: 0;
+    color: #ff8054;
+    cursor: pointer;
+    transition: all .3s;
+}
+button:hover {
+    background: #ff8054;
+    color: #fff;
+}
+
+.alert-danger{
+    margin-top:15px;
+}
+.alert-danger li{
+   list-style-type: none;
+}
+span {
+    margin: 0 5px 0 15px;
+}
+
+#sendmessage, #senderror {
+    border:1px solid #e6e6e6;
+    background:#f6f6f6;
+    display:none;
+    text-align:center;
+    padding:15px 12px 15px 65px;
+    margin:10px 0;
+    font-weight:600;
+    margin-bottom:30px;
+}
+ 
+#senderror {
+    color: #f00;
+}
+ 
+#senderror span {
+    font-weight: bold;
+}
+.textarea-contact{
+    width: 100%; /* Ширина поля в процентах */
+    min-height: 235px; /* Высота поля в пикселах */
+    box-sizing: border-box;
+    background: none;
+    outline: none;
+    resize: none!important;
+    border: 0;
+    font-family: 'Montserrat', sans-serif;
+    transition: all .3s;
+    border: 1px solid #ccc;
+}
+.textarea-contact:focus{
+    border: 1px solid #78788c;
+}
+.logo{
+    padding: 5%;
+}
+.logo img{
+    width: 150px;
+    height: auto;
+}
+.contact-info{
+    padding: 5%;
+    float:right;
+}
+.contact-info span i{
+    margin-right: 8px;
+    color: #fff;
+    font-size: 18px;
+}
+.contact-info span a{
+    font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+}
+.contact-info a:hover{
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+@media screen and (max-width: 768px) {
+.form{
+    margin: calc(40vh - 220px) auto;
+}
+.contact-info{
+    margin-top: -75px;
+}
+}

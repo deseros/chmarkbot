@@ -1,0 +1,233 @@
+
+------------------------ 
+2021.12.01 10:56:09
+DEBUG
+
+------------------------
+
+------------------------
+2021.12.01 13:58:51
+incoming
+Array
+(
+)
+
+------------------------
+
+------------------------ 
+2021.12.01 10:59:13
+DEBUG
+
+------------------------
+
+------------------------ 
+2021.12.01 10:59:15
+DEBUG
+
+------------------------
+
+------------------------
+2021.12.01 11:10:36
+DEBUG
+
+------------------------
+
+------------------------ 
+2021.12.01 11:25:46
+DEBUG
+
+------------------------
+
+------------------------
+2021.12.01 14:30:42
+DEBUG
+Array
+(
+    [event] => ONTASKDELETE
+    [data] => Array
+        (
+            [FIELDS_BEFORE] => Array
+                (
+                    [ID] => 25
+                )
+
+            [FIELDS_AFTER] => undefined
+            [IS_ACCESSIBLE_BEFORE] => undefined
+            [IS_ACCESSIBLE_AFTER] => N
+        )
+
+    [ts] => 1638358226
+    [auth] => Array
+        (
+            [domain] => b24-zcx221.bitrix24.ru
+            [client_endpoint] => https://b24-zcx221.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => 41c382e277b6b9ada11868010fe59ba1
+            [application_token] => gutoo1i3oc0urid4bfp1zcmfia02l65a
+        )
+
+)
+
+------------------------
+
+------------------------ 
+2021.12.01 11:42:27
+DEBUG
+Array
+(
+)
+
+------------------------
+
+------------------------ 
+2021.12.01 11:42:34
+DEBUG
+Array
+(
+)
+
+------------------------
+
+------------------------
+2021.12.01 14:44:13
+DEBUG
+Array
+(
+    [event] => ONTASKUPDATE
+    [data] => Array
+        (
+            [FIELDS_BEFORE] => Array
+                (
+                    [ID] => 19
+                )
+
+            [FIELDS_AFTER] => Array
+                (
+                    [ID] => 19
+                )
+
+            [IS_ACCESSIBLE_BEFORE] => undefined
+            [IS_ACCESSIBLE_AFTER] => undefined
+        )
+
+    [ts] => 1638359038
+    [auth] => Array
+        (
+            [domain] => b24-zcx221.bitrix24.ru
+            [client_endpoint] => https://b24-zcx221.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => 41c382e277b6b9ada11868010fe59ba1
+            [application_token] => gutoo1i3oc0urid4bfp1zcmfia02l65a
+        )
+
+)
+
+------------------------
+
+------------------------
+2021.12.01 14:55:51
+DEBUG
+Array
+(
+    [event] => ONTASKUPDATE
+    [data] => Array
+        (
+            [FIELDS_BEFORE] => Array
+                (
+                    [ID] => 13
+                )
+
+            [FIELDS_AFTER] => Array
+                (
+                    [ID] => 13
+                )
+
+            [IS_ACCESSIBLE_BEFORE] => undefined
+            [IS_ACCESSIBLE_AFTER] => undefined
+        )
+
+    [ts] => 1638359736
+    [auth] => Array
+        (
+            [domain] => b24-zcx221.bitrix24.ru
+            [client_endpoint] => https://b24-zcx221.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => 41c382e277b6b9ada11868010fe59ba1
+            [application_token] => gutoo1i3oc0urid4bfp1zcmfia02l65a
+        )
+
+)
+
+------------------------
+
+------------------------
+2021.12.01 14:57:58
+DEBUG
+Array
+(
+    [event] => ONTASKUPDATE
+    [data] => Array
+        (
+            [FIELDS_BEFORE] => Array
+                (
+                    [ID] => 13
+                )
+
+            [FIELDS_AFTER] => Array
+                (
+                    [ID] => 13
+                )
+
+            [IS_ACCESSIBLE_BEFORE] => undefined
+            [IS_ACCESSIBLE_AFTER] => undefined
+        )
+
+    [ts] => 1638359862
+    [auth] => Array
+        (
+            [domain] => b24-zcx221.bitrix24.ru
+            [client_endpoint] => https://b24-zcx221.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => 41c382e277b6b9ada11868010fe59ba1
+            [application_token] => gutoo1i3oc0urid4bfp1zcmfia02l65a
+        )
+
+)
+
+------------------------
+
+------------------------
+2021.12.01 14:57:58
+DEBUG
+Array
+(
+    [event] => ONTASKUPDATE
+    [data] => Array
+        (
+            [FIELDS_BEFORE] => Array
+                (
+                    [ID] => 13
+                )
+
+            [FIELDS_AFTER] => Array
+                (
+                    [ID] => 13
+                )
+
+            [IS_ACCESSIBLE_BEFORE] => undefined
+            [IS_ACCESSIBLE_AFTER] => undefined
+        )
+
+    [ts] => 1638359862
+    [auth] => Array
+        (
+            [domain] => b24-zcx221.bitrix24.ru
+            [client_endpoint] => https://b24-zcx221.bitrix24.ru/rest/
+            [server_endpoint] => https://oauth.bitrix.info/rest/
+            [member_id] => 41c382e277b6b9ada11868010fe59ba1
+            [application_token] => gutoo1i3oc0urid4bfp1zcmfia02l65a
+        )
+
+)
+
+------------------------
